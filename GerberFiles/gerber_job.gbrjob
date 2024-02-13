@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2023-03-20T08:21:29Z",
+        "GenerationSoftware": {
+            "Application": "Fusion 360 Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Scale PCB v20"
+        },
+        "Owner": "andrew klement <a.klement.w@gmail.com>",
+        "Size": {
+            "X": 63.5,
+            "Y": 38.09
+        }
+    }
+}
