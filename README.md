@@ -1,5 +1,8 @@
 # BluetoothCoffeeScale
-A bluetooth coffee scale that can connect to a [recipe app](https://github.com/AndrewKlement/Recipe) and track coffee brewing
+A bluetooth coffee scale that can connect to a [recipe app](https://github.com/AndrewKlement/Recipe) and track coffee brewing. 
+
+The printable files can be found at 
+https://www.printables.com/model/763335-diy-bluetooth-coffee-scale
 
 # PCB
 <a href="https://github.com/AndrewKlement/BluetoothCoffeeScale/assets/104044603/926dc91b-4a7d-49a8-b9fd-27c66a3c3d6e" target="_blank">
